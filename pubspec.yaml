@@ -1,3 +1,5 @@
 name: dart
 dependencies:
   redstone: "^0.6.4"
+  crypto:
+  http:
