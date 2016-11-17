@@ -1,4 +1,6 @@
-name: dart
+name: aws:sdk
+version: 0.0.0
+author: Andrii Nasinnyk <andriy.nas@gmail.com>
 dependencies:
   redstone: "^0.6.4"
   crypto:

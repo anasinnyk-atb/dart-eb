@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
-import '../../../src/aws/sdk.dart';
-import '../../../src/aws/dynamodb/index.dart';
+import '../../../lib/src/aws/sdk.dart';
+import '../../../lib/src/aws/dynamodb/index.dart';
 
 void main() {
   test('Test API call to DynamoDB by client', () {
